@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.a
+*.obj
+*.dll
+*.log
+*.depend
+*.layout
+bin/
+obj/
+.vscode/

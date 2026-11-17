@@ -1,0 +1,4 @@
+A hash table stores words.
+Search finds a word in a document.
+Searching with a typo uses edit distance.
+Cat and cat become the same key. Cats is another word.
